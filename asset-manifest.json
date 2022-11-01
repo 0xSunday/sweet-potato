@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sunday7637/sweet-potato/static/css/main.073c9b0a.css",
-    "main.js": "/sunday7637/sweet-potato/static/js/main.937d57de.js",
-    "index.html": "/sunday7637/sweet-potato/index.html",
-    "main.073c9b0a.css.map": "/sunday7637/sweet-potato/static/css/main.073c9b0a.css.map",
-    "main.937d57de.js.map": "/sunday7637/sweet-potato/static/js/main.937d57de.js.map"
+    "main.css": "/sweet-potato/static/css/main.073c9b0a.css",
+    "main.js": "/sweet-potato/static/js/main.937d57de.js",
+    "index.html": "/sweet-potato/index.html",
+    "main.073c9b0a.css.map": "/sweet-potato/static/css/main.073c9b0a.css.map",
+    "main.937d57de.js.map": "/sweet-potato/static/js/main.937d57de.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
