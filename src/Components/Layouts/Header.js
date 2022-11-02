@@ -3,7 +3,7 @@ import "./Header.css";
 
 import coverPhoto from "../../Asset/coverPhoto2.jpg";
 import HeaderCart from "./HeaderCart";
-function Header() {
+function Header(props) {
   return (
     <Fragment>
       <header className="header">
@@ -12,7 +12,7 @@ function Header() {
           <p className="headerlogotext">Order Your Food By Adding Item To Cart</p>
         </div>
 
-        <HeaderCart />
+        <HeaderCart onClick={props.onShowCart}/>
         <div className="main-image">
           <img src={coverPhoto} alt="different recipis" />
         </div>

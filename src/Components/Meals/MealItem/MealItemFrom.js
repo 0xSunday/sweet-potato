@@ -14,7 +14,7 @@ const MealItemFrom = () => {
         defaultValue:"1"
       }}
       />
-      <button>+ ADD</button>
+      <button>+ Add</button>
     </form>
   )
 }
