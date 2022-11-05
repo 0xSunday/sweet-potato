@@ -24,12 +24,13 @@ header {
   font-size: 5rem;
   font-style: italic;
   margin-top: -10px;
-  margin-bottom: -30px;
+  margin-bottom: -20px;
+  
 }
 .headerlogotext {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-style: italic;
-  padding-top: -30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .button {
   position: absolute;

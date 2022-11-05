@@ -1,6 +1,9 @@
 import  './MealsSummary.css';
 
-const MealsSummary = () => {
+const MealsSummary = (props) => {
+  const changeHandleSummery=()=>{
+    props.onChangeHandleSummery(false)
+  }
   return (
     <section className="summary">
       <h2>Delicious Food, Delivered To You</h2>
@@ -12,6 +15,7 @@ const MealsSummary = () => {
         All our meals are cooked with high-quality ingredients, just-in-time and
         of course by experienced chefs!
       </p>
+      <button className="ok-button" onClick={changeHandleSummery}>OK</button>
     </section>
   );
 };

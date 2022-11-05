@@ -1,11 +1,14 @@
-import React, { Fragment } from "react";
+import React, { useState,Fragment } from "react";
 import { AvailableMeals } from "./AvailableMeals";
 import MealsSummary from "./MealsSummary";
 
 export const Meals = () => {
+  const [mealSummery,setMealSummery] = useState(true);
+
+  
   return (
     <Fragment>
-      <MealsSummary />
+     {mealSummery && <MealsSummary onChangeHandleSummery={setMealSummery}/>}
       <AvailableMeals />
     </Fragment>
   );
