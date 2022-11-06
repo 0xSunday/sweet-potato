@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sweet-potato/static/css/main.abe4f3bf.css",
-    "main.js": "/sweet-potato/static/js/main.6a0e54cc.js",
+    "main.js": "/sweet-potato/static/js/main.d66511e8.js",
     "static/media/coverPhoto2.jpg": "/sweet-potato/static/media/coverPhoto2.ff69443aa67948966dea.jpg",
     "index.html": "/sweet-potato/index.html",
     "main.abe4f3bf.css.map": "/sweet-potato/static/css/main.abe4f3bf.css.map",
-    "main.6a0e54cc.js.map": "/sweet-potato/static/js/main.6a0e54cc.js.map"
+    "main.d66511e8.js.map": "/sweet-potato/static/js/main.d66511e8.js.map"
   },
   "entrypoints": [
     "static/css/main.abe4f3bf.css",
-    "static/js/main.6a0e54cc.js"
+    "static/js/main.d66511e8.js"
   ]
 }
